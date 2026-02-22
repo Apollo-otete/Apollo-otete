@@ -1,4 +1,4 @@
-<!-- TYPING ANIMATION - Shows your roles -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)<!-- TYPING ANIMATION - Shows your roles -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Apollo+Brian;React+Developer;Frontend+Specialist;Currently+Learning+Backend;Welcome+to+my+Profile!" alt="Typing Animation" />
