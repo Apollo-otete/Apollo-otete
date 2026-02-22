@@ -10,10 +10,10 @@
   </a>
 </h1>
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="image.png" width="100%" alt="Banner">
 </div>
 <div align="center">
-  <img src="banner.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" alt="Banner">
+  <img src="image.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" alt="Banner">
 </div>
 
 <!-- YOUR BIO (matches your banner text) -->
