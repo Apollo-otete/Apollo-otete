@@ -8,10 +8,9 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-- 🎓 **Student** at Masinde Muliro University of Science and Technology (MMUST)
-- 🔐 Specializing in **Cyber Security** and **Software Engineering**
-- 📍 From Migori, Kenya
-- 🌱 Currently learning **Backend Development** and **Security Protocols**
+-  **Student** at Masinde Muliro University of Science and Technology (MMUST)
+-  Specializing in **Cyber Security** and **Software Engineering**
+-  Currently learning **Backend Development** and **Security Protocols**
 
 <!-- TECH STACK -->
 ## 🛠️ Technologies & Tools
@@ -33,4 +32,4 @@
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apollo-otete)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apollojunior@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apollojuniorm@gmail.com)
