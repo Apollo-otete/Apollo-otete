@@ -1,7 +1,7 @@
 <!-- YOUR BANNER AT THE TOP -->
 <!-- Add this to your README where banner goes -->
 <div align="center">
-  <img src="banner-animated.gif" width="100%" alt="Animated Banner">
+  <img src="image.png-animated.gif" width="100%" alt="Animated Banner">
 </div>
 
 <!-- TYPING ANIMATION -->
