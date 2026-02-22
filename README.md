@@ -1,6 +1,6 @@
 <!-- YOUR BANNER AT THE TOP -->
 <div align="center">
-  <img src="banner.png" width="100%" alt="Apollo Brian - Fullstack Developer & Cybersecurity Enthusiast">
+  <img src="image.png" width="100%" alt="Apollo Brian - Fullstack Developer & Cybersecurity Enthusiast">
 </div>
 
 <!-- TYPING ANIMATION - BIGGER TEXT -->
