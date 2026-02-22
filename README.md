@@ -17,8 +17,7 @@
 
 -  **Fullstack Developer** building web applications
 -  **Cybersecurity Enthusiast** passionate about secure coding
--  Student at **MMUST** - Software Engineering & Cyber Security
--  Based in Migori, Kenya
+-  Student at **MMUST** -(IT) || Software Engineering & Cyber Security
 -  Always learning and solving problem-oriented challenges
 -  Looking into innovation!
 
@@ -58,12 +57,12 @@
 <div align="center" style="font-size: 1.3em; margin: 20px 0;">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&fontSize=20px)](https://github.com/Apollo-otete)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&fontSize=20px)](mailto:apollojunior@gmail.com)||+254754995839
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&fontSize=20px)](mailto:apollo2junior@gmail.com) ||+254754995839
 
 </div>
 
 ---
 
-<div align="center" style="font-size: 1.2em;">
+<div align="center" style="font-size:2.0;">
   ⭐️ From <b>Apollo-otete</b>
 </div>
