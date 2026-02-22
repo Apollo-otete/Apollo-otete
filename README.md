@@ -9,12 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Apollo+Brian!;Fullstack+Developer;Cybersecurity+Enthusiast" alt="Typing Animation" />
   </a>
 </h1>
-<div align="center">
-  <img src="image.png" width="100%" alt="Banner">
-</div>
-<div align="center">
-  <img src="image.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" alt="Banner">
-</div>
 
 <!-- YOUR BIO (matches your banner text) -->
 ## 👨‍💻 About Me
