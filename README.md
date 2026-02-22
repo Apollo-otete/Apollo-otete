@@ -3,10 +3,10 @@
   <img src="image.png" width="100%" alt="Apollo Brian Banner">
 </div>
 
-<h1<b<i align="center">
+<h1align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Apollo+Brian!;Fullstack+Developer;Cybersecurity+Enthusiast" alt="Typing Animation" />
-  </i></b></a>
+  </a>
 </h1>
 
 <h1 About Me <h1>
