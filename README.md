@@ -1,6 +1,6 @@
 <!-- YOUR BANNER AT THE TOP -->
 <div align="center">
-  <img src="image.png" width="100%" alt="Apollo Brian - Fullstack Developer & Cybersecurity Enthusiast">
+  <img src="image.png" width="100%" alt="Apollo Brian - Fullstack Developer & Blueteam Cybersecurity ">
 </div>
 
 <!-- TYPING ANIMATION - BIGGER TEXT -->
@@ -11,12 +11,12 @@
 </h1>
 
 <!-- ABOUT ME SECTION WITH BIGGER TEXT -->
-## 👨‍💻 About Me
+##   About Me
 
 <div style="font-size: 1.3em; line-height: 1.8;">
 
 -  **Fullstack Developer** building web applications
--  **Cybersecurity Enthusiast** passionate about secure coding
+-  ** Blue team Cybersecurity** passionate about secure coding
 -  Student at **MMUST** -(IT) || Software Engineering & Cyber Security
 -  Always learning and solving problem-oriented challenges
 -  Looking into innovation!
@@ -57,12 +57,12 @@
 <div align="center" style="font-size: 1.3em; margin: 20px 0;">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&fontSize=20px)](https://github.com/Apollo-otete)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&fontSize=20px)](mailto:apollo2junior@gmail.com) ||+254754995839
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&fontSize=20px)](mailto:apollo2junior@gmail.com) 
+[!Tell no. +254754995839]
 </div>
 
 ---
 
 <div align="center" style="font-size:2.0;">
-  ⭐️ From <b>Apollo-otete</b>
+   From <b>Apollo-otete</b>
 </div>
